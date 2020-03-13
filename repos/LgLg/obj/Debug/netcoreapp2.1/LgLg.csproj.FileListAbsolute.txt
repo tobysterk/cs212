@@ -1,0 +1,11 @@
+C:\Users\tobys\source\repos\LgLg\bin\Debug\netcoreapp2.1\LgLg.deps.json
+C:\Users\tobys\source\repos\LgLg\bin\Debug\netcoreapp2.1\LgLg.runtimeconfig.json
+C:\Users\tobys\source\repos\LgLg\bin\Debug\netcoreapp2.1\LgLg.runtimeconfig.dev.json
+C:\Users\tobys\source\repos\LgLg\bin\Debug\netcoreapp2.1\LgLg.dll
+C:\Users\tobys\source\repos\LgLg\bin\Debug\netcoreapp2.1\LgLg.pdb
+C:\Users\tobys\source\repos\LgLg\obj\Debug\netcoreapp2.1\LgLg.csprojAssemblyReference.cache
+C:\Users\tobys\source\repos\LgLg\obj\Debug\netcoreapp2.1\LgLg.csproj.CoreCompileInputs.cache
+C:\Users\tobys\source\repos\LgLg\obj\Debug\netcoreapp2.1\LgLg.AssemblyInfoInputs.cache
+C:\Users\tobys\source\repos\LgLg\obj\Debug\netcoreapp2.1\LgLg.AssemblyInfo.cs
+C:\Users\tobys\source\repos\LgLg\obj\Debug\netcoreapp2.1\LgLg.dll
+C:\Users\tobys\source\repos\LgLg\obj\Debug\netcoreapp2.1\LgLg.pdb

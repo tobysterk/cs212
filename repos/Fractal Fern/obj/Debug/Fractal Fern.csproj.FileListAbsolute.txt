@@ -1,0 +1,14 @@
+C:\Users\tobys\source\repos\Fractal Fern\obj\Debug\Fractal Fern.csprojAssemblyReference.cache
+C:\Users\tobys\source\repos\Fractal Fern\obj\Debug\MainWindow.baml
+C:\Users\tobys\source\repos\Fractal Fern\obj\Debug\MainWindow.g.cs
+C:\Users\tobys\source\repos\Fractal Fern\obj\Debug\App.g.cs
+C:\Users\tobys\source\repos\Fractal Fern\obj\Debug\Fractal Fern_MarkupCompile.cache
+C:\Users\tobys\source\repos\Fractal Fern\obj\Debug\Fractal Fern.g.resources
+C:\Users\tobys\source\repos\Fractal Fern\obj\Debug\Fractal_Fern.Properties.Resources.resources
+C:\Users\tobys\source\repos\Fractal Fern\obj\Debug\Fractal Fern.csproj.GenerateResource.cache
+C:\Users\tobys\source\repos\Fractal Fern\obj\Debug\Fractal Fern.csproj.CoreCompileInputs.cache
+C:\Users\tobys\source\repos\Fractal Fern\bin\Debug\Fractal Fern.exe.config
+C:\Users\tobys\source\repos\Fractal Fern\bin\Debug\Fractal Fern.exe
+C:\Users\tobys\source\repos\Fractal Fern\bin\Debug\Fractal Fern.pdb
+C:\Users\tobys\source\repos\Fractal Fern\obj\Debug\Fractal Fern.exe
+C:\Users\tobys\source\repos\Fractal Fern\obj\Debug\Fractal Fern.pdb
